@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-close-button">
+      <rect width="43" height="43"/>
+    </clipPath>
+  </defs>
+  <g id="close-button" clip-path="url(#clip-close-button)">
+    <g id="Cancel" transform="translate(9 9.009)">
+      <path id="Vereinigungsmenge_3" data-name="Vereinigungsmenge 3" d="M12.48,14.749,2.269,24.96,0,22.692,10.211,12.48,0,2.269,2.269,0,12.48,10.211,22.69,0l2.27,2.269L14.749,12.48,24.96,22.692,22.69,24.96Z" fill="#06335c"/>
+    </g>
+  </g>
+</svg>
