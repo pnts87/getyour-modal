@@ -51,7 +51,7 @@ template.innerHTML = /*html*/`
 
   <div class="modal-background">
     <div class="modal">
-      <img class="close-button" src="./assets/close.svg" />
+      <img class="close-button" src="./close.svg" alt="Schließen" />
       <div class="content">
         <slot></slot>
       </div>
