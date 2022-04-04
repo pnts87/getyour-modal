@@ -28,12 +28,14 @@ template.innerHTML = /*html*/`
       position: relative;
       background-color: white;
       width: 90%;
-      height: 90%;
+      min-width: 300px;
+      max-height: 90vh;
       border-radius: 3px;
       overflow-y: auto;
     }
 
     .close-button {
+      width: 50px;
       position: absolute;
       top: 0;
       right: 0;
