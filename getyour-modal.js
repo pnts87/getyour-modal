@@ -38,6 +38,7 @@ template.innerHTML = /*html*/`
       top: 0;
       right: 0;
       cursor: pointer;
+      z-index: 100;
     }
 
     .content {
